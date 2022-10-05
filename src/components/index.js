@@ -1,0 +1,7 @@
+export { default as Footer } from './Footer'
+export { default as InfoSection } from './InfoSection'
+export { default as MainSection } from './MainSection'
+export { default as NavBar } from './NavBar'
+export { default as Services } from './Services'
+export { default as SideBar } from './SideBar'
+export { default as SignIn } from './SignIn'
